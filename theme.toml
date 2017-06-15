@@ -1,8 +1,8 @@
-name = "Academic"
+name = "Freelance"
 license = "MIT"
-licenselink = "https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md"
-description = "Easily create beautifully simple academic or personal sites"
-homepage = "https://github.com/gcushen/hugo-academic"
+licenselink = "https://github.com/filipeamoreira/hugo-freelance/blob/master/LICENSE.md"
+description = "Easily create beautifully simple personal freelance websites"
+homepage = "https://github.com/filipeamoreira/hugo-academic"
 min_version = 0.18
 tags = ["academic",
         "portfolio",
@@ -11,22 +11,24 @@ tags = ["academic",
         "personal",
         "university",
         "blog",
-        "minimal"
+        "minimal",
+        "freelance"
         ]
 features = ["academic profile",
             "research publication system",
             "projects",
             "blog",
             "teaching",
-            "contact"
+            "contact",
+            "freelance portfolio",
             ]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Filipe A Moreira"
+  homepage = "https://filipeamoreira.com"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "George Cushen"
+  homepage = "https://georgecushen.com"
+  repo = "https://github.com/gcushen/hugo-academic"
